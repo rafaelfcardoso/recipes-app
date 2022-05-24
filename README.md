@@ -23,14 +23,11 @@ Nesse projeto, fui capaz de:
 
 
 ## Instalando Dependências
-
-> Frontend
 ```bash
 cd src/
 npm install
 ``` 
 ## Executando aplicação
-  ```
 * Para rodar o front-end:
 
   ```
